@@ -18,12 +18,12 @@ This project is a simple responsive layout built using HTML and CSS. It demonstr
 ## Installation
 
 1. Clone this repository:
-
+   ``` bash
    git clone https://github.com/yourusername/responsive-layout.git
-
+   ```
 2. Navigate into the project directory.
    
-3. Open the index.html file in your preferred web browser to view the project.
+3. Open the `index.html` file in your preferred web browser to view the project.
 
 ## Usage
 
@@ -49,9 +49,9 @@ This project is a simple responsive layout built using HTML and CSS. It demonstr
   - Use of flex at styling for a combinational approach.
 
 ## Desktop view
-
 ![Responsive desktop view](https://github.com/user-attachments/assets/b2074fc6-fa44-49d1-9b42-44e0dd3898fe)
 
 ## Mobile view
-
 ![Responsive mobile view](https://github.com/user-attachments/assets/c29c51fb-f957-41c6-af76-050d35fbe993)
+
+Thanks for using the application!
