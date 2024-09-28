@@ -1,4 +1,4 @@
-# Responsive Layout Project
+# Gridswift
 
 ## Overview
 
@@ -19,7 +19,7 @@ This project is a simple responsive layout built using HTML and CSS. It demonstr
 
 1. Clone this repository:
    ``` bash
-   git clone https://github.com/yourusername/responsive-layout.git
+   git clone https://github.com/yourusername/Gridswift.git
    ```
 2. Navigate into the project directory.
    
