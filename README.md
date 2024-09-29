@@ -13,8 +13,16 @@ A simple responsive layout built using HTML and CSS.
 
 ## Technologies Used
 
-- HTML5
-- CSS3
+- HTML5: Structure and Content of the application.
+- CSS3: Styling and layout for a clean user interface.
+
+## File Description
+
+HTML Elements:
+  - `.header`: Displays the header section.
+  - `.sidebar`: Displays the sidebar navigation.
+  - `.content1`, `.content2`, `.content3`: Various content areas.
+  - `.footer`: Displays the footer section.
 
 ## Installation
 
@@ -32,16 +40,7 @@ A simple responsive layout built using HTML and CSS.
 - The layout is fully responsive; resize your browser window to see how the content adjusts.
 - Modify the content within the HTML file to customize the layout according to your needs.
 
-## File Description
-
-HTML Elements:
-  - `.header`: Displays the header section.
-  - `.sidebar`: Displays the sidebar navigation.
-  - `.content1`, `.content2`, `.content3`: Various content areas.
-  - `.footer`: Displays the footer section.
-
 ## Support
-
 Give a 🌟 to this repo if you liked it .
 
 Connect with me
