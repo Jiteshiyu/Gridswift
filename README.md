@@ -11,14 +11,14 @@ You can view a live demo of the project [here](https://gridswift.netlify.app/).
 
 ## Features
 
-- Responsive Design: The layout adjusts seamlessly from a single-column layout to a multi-column layout.
-- Grid Layout: Implements CSS Grid for organizing the overall structure and arrangement of the layout.
-- Flexbox Usage: Utilizes Flexbox for centering content within each grid item.
+- **Responsive Design:** The layout adjusts seamlessly from a single-column layout to a multi-column layout.
+- **Grid Layout:** Implements CSS Grid for organizing the overall structure and arrangement of the layout.
+- **Flexbox Usage:** Utilizes Flexbox for centering content within each grid item.
 
 ## Technologies Used
 
-- HTML5: Structure and Content of the application.
-- CSS3: Styling and layout for a clean user interface.
+- HTML5
+- CSS3
 
 ## File Description
 
