@@ -15,12 +15,12 @@ body {
 /* Container Layout */
 .container {
   height: 100%;
-  padding: 2.5rem;
+  padding: 2rem;
   display: grid;
   gap: 1rem;
   grid-template-columns: repeat(1, 1fr);
   grid-template-rows: repeat(6, 1fr);
-  background-color: #f7f7f7;
+  background-color: #f5f5f5;
 }
 
 /* Item Styles */
