@@ -7,7 +7,7 @@ A simple responsive layout built using HTML and CSS.
 
 ## Demo
 
-You can view a live demo of the project [here](https://gridswift.netlify.app/).
+You can view a live demo of the project [Gridswift](https://gridswift.netlify.app/).
 
 ## Features
 
